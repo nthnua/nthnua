@@ -1,3 +1,12 @@
+
+## Hi there 👋, I am Nuthan
+
+**I am a fullstack developer 👨‍💻 from India, currently persuing my bachelor's 🎓**
+- 👀 Interested in all things tech
+- 🌱 Currently learning intricacies of the things aroud me
+- 📫 Reach out to me on twitter [@nthnua](https://twitter.com/nthnua)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nthnua&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!---
 - 👋 Hi, I’m @nthnua
