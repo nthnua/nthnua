@@ -3,7 +3,7 @@
 
 **I am a fullstack developer 👨‍💻 from India, currently persuing my bachelor's 🎓**
 - 👀 Interested in all things tech
-- 🌱 Currently learning intricacies of the things aroud me
+- 🌱 Currently learning the intricacies of the things aroud me
 - 📫 Reach out to me on twitter [@nthnua](https://twitter.com/nthnua)
 
 
